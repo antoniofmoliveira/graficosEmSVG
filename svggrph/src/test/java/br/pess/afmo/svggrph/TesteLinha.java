@@ -30,7 +30,7 @@ public class TesteLinha {
                 { 32.4, 31.3, 30.2, 30.9 },
                 { 37084.0, 38617.0, 38705.0, 34927.0 }
             });
-        graf.setYTituloLeft("% N�o Conformidade");
+        graf.setYTituloLeft("% Não Conformidade");
         graf.setTags(new String[] { "jul-set/2005", "ago-out/2005", "set-nov/2005", "out/05-dez/05" });
         graf.setSeriesNames(new String[] { "Ponderado", "Bruta", "Verificações", "rating 4", "rating 5", });
         // graf.setColors(new String[]{"blue", "red"});
